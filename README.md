@@ -1,6 +1,6 @@
-##Rough Instructions
+## Rough Instructions
 
-These are pulled from (Slack's API)[https://api.slack.com/tutorials/tunneling-with-ngrok] site.
+These are pulled from [Slack's API](https://api.slack.com/tutorials/tunneling-with-ngrok) site.
 
 To run the app type the following from your slackapp directory using the Terminal:
 
