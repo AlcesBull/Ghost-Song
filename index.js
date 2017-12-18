@@ -4,7 +4,7 @@ var http = require('http');
 const PORT=4390
 
 function handleRequest(request, response){
-	response.end('Ngrok is working! - Path Hit: ' + request.url);
+	response.end('You set it up correctly! The path to your fixed purpose is paved with iron rails... - Path Hit: ' + request.url);
 }
 
 var server = http.createServer(handleRequest);
