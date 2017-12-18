@@ -2,6 +2,8 @@
 
 These are pulled from [Slack's API](https://api.slack.com/tutorials/tunneling-with-ngrok) site.
 
+My code assumes you're using a file (ignored) called `app-env` to store config that you're planning to obscure.
+
 To run the app type the following from your slackapp directory using the Terminal:
 
 `sudo node index.js`
